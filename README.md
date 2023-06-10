@@ -8,7 +8,7 @@
 
 🔭 I’m currently learning **AWS**, **Kubernetes**, and **Kafka**<br>
 
-🤖 Machine Learning: Deep Learning, Regression, Decision Tree, Clustering, Gradient Boosting, AdaBoost, XGBoost, Random Forest<br>
+🤖 Machine Learning: Deep Learning, Regression, Decision Tree, Clustering, Gradient Boosting, XGBoost, Random Forest<br>
 
 ⚒ MLOps: MLflow, DVC, Great Expectations, Metaflow, Evidently, Streamlit
 
