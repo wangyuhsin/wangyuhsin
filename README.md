@@ -10,7 +10,7 @@
 
 ⚒ MLOps: MLflow, DVC, Great Expectations, Metaflow, Evidently, Streamlit<br>
 
-📫 How to reach me: You can message me on [LinkedIn](https://www.linkedin.com/in/yuhsin-wang/) or by [email](yuhsinwang1202@gmail.com)<br><br>
+📫 How to reach me: You can message me on [LinkedIn](https://www.linkedin.com/in/yuhsin-wang/) or by [email](mailto:yuhsinwang1202@gmail.com)<br><br>
 
 
 ### Languages and Tools
