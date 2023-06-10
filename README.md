@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yu Hsin
 
-✨ A passionate data scientist from Taiwan<br>
+✨ A passionate Data Scientist from Taiwan<br>
 
 🎓 Current Data Science graduate student @ University of San Francisco<br>
 
@@ -8,7 +8,9 @@
 
 🔭 I’m currently learning **AWS**, **Kubernetes**, and **Kafka**<br>
 
+👾 Machine Learning: Deep Learning – CNN, Regression, Decision Tree, Clustering, Gradient Boosting, AdaBoost, XGBoost, Random Forest<br>
 
+⚒ MLOps: MLflow, DVC, Great Expectations, Metaflow, Evidently, Streamlit
 
 📫 How to reach me: You can message me on [LinkedIn](https://www.linkedin.com/in/yuhsin-wang/) or by [email](yuhsinwang1202@gmail.com)<br><br>
 
