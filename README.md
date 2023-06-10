@@ -1,5 +1,17 @@
 ## Hi 👋, I'm Yu Hsin
-A passionate data scientist from Taiwan
+
+✨ A passionate data scientist from Taiwan<br>
+
+🎓 Current Data Science graduate student @ University of San Francisco<br>
+
+💼 Currently working as a Data Science intern @ Salk<br>
+
+🔭 I’m currently learning **AWS**, **Kubernetes**, and **Kafka**<br>
+
+
+
+📫 How to reach me: You can message me on [LinkedIn](https://www.linkedin.com/in/yuhsin-wang/) or by [email](yuhsinwang1202@gmail.com)<br><br>
+
 
 ### Languages and Tools
 
