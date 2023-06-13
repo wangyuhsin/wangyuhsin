@@ -8,7 +8,7 @@
 
 🤖 Machine Learning: Deep Learning, Regression, Decision Tree, Clustering, Gradient Boosting, XGBoost, Random Forest<br>
 
-⚒ MLOps: MLflow, DVC, Great Expectations, Metaflow, Evidently, Streamlit<br>
+⚒ MLOps: MLflow, ClearML, DVC, Great Expectations, Metaflow, Airflow, Evidently, Streamlit<br>
 
 📫 How to reach me: You can message me on [LinkedIn](https://www.linkedin.com/in/yuhsin-wang/) or by [Email](mailto:yuhsinwang1202@gmail.com)
 ![Snake animation](https://github.com/wangyuhsin/wangyuhsin/blob/output/github-contribution-grid-snake.svg)
