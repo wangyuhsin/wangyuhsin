@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yu Hsin
 
-✨ A passionate Data Scientist from Taiwan<br>
+✨ A passionate Data Scientist<br>
 
 🎓 Current Data Science graduate student @ University of San Francisco<br>
 
