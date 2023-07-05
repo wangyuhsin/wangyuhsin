@@ -2,7 +2,7 @@
 
 ✨ A passionate Data Scientist<br>
 
-🎓 Current Data Science graduate student @ University of San Francisco<br>
+🎓 Data Science Graduate @ University of San Francisco<br>
 
 💼 Currently working as a Data Science intern @ Salk Institute<br>
 
